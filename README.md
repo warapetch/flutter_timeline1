@@ -1,16 +1,24 @@
-# flutter_timeline1
+# flutter timeline1
 
-A new Flutter project.
+เรียนรู้ ฟลัตเตอร์ Flutter ด้วยการทำโปรเจค
 
-## Getting Started
+แอพจดบันทึกการเดินทาง (Timeline)
+สร้างขึ้นระหว่างการศึกษา ภาษา ฟลัตเตอร์ (Flutter)
 
-This project is a starting point for a Flutter application.
+ฐานข้อมูลที่ใช้ SQLite
+ข้อมูลแอพ
+1. บันทึกประวัติ ประจำวัน
+2. ดูประวัติ
+3. แชร์ข้อมูลได้
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+ขั้นตอนการเรียนรู้
+1. SQLite
+2. การสร้างฟอร์ม
+3. การโหลดข้อมูล เพื่อให้แสดงผลที่ฟอร์ม
+4. การส่งค่า parameter ข้ามฟอร์ม
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+วิดีโอ
+https://www.facebook.com/warapetch.ruangpornvisuthi/videos/2916258935311241/
+
