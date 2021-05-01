@@ -1,6 +1,7 @@
 # Flutter Timeline 1
 
 ## **เรียนรู้ ฟลัตเตอร์ Flutter ด้วยการทำโปรเจค**
+### รู้อะไร ไม่สู้รู้วิชา ♥
 
 แอพจดบันทึกการเดินทาง (Timeline)
 สร้างขึ้นระหว่างการศึกษา ภาษา ฟลัตเตอร์ (Flutter)
@@ -47,5 +48,6 @@
 
 
 [วีดีโอ รีวิว แบบ คร่าวๆ]
+
 (https://www.youtube.com/watch?v=-WJ0J7yo7y4&ab_channel=WarapetchFreelanceProgramming)
 
